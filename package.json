@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Education-first design system powering the EduPress ecosystem.",
-  "packageManager": "pnpm@11",
+  "packageManager": "pnpm@10.15.0",
   "scripts": {
     "dev": "pnpm --filter @edupress/docs dev",
     "build": "pnpm -r build",
