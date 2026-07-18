@@ -1,0 +1,35 @@
+:root {
+  --ep-color-forest: #0e3d2e;
+  --ep-color-green: #1b7a4b;
+  --ep-color-cream: #fbf7ee;
+  --ep-color-gold: #e3a008;
+  --ep-color-coral: #e8663d;
+  --ep-color-blue: #2e7db8;
+
+  --ep-color-ink: #1a2b22;
+  --ep-color-muted: #4a5a52;
+  --ep-color-border: #e4dcc9;
+  --ep-color-surface: #ffffff;
+  --ep-color-surface-soft: #f3f8f4;
+  --ep-color-forest-soft: #d9e5dc;
+
+  --ep-font-display: "Fraunces", Georgia, serif;
+  --ep-font-heading: "Baloo 2", system-ui, sans-serif;
+  --ep-font-body: "Andika", system-ui, sans-serif;
+  --ep-font-metadata: "IBM Plex Mono", monospace;
+
+  --ep-radius-sm: 10px;
+  --ep-radius-md: 12px;
+  --ep-radius-lg: 18px;
+  --ep-radius-panel: 28px;
+  --ep-radius-pill: 999px;
+
+  --ep-shadow-subtle: 0 1px 2px rgba(14, 61, 46, 0.04);
+  --ep-shadow-raised: 0 8px 20px rgba(14, 61, 46, 0.08);
+  --ep-shadow-focus: 0 0 0 3px rgba(46, 125, 184, 0.28);
+
+  --ep-motion-fast: 150ms;
+  --ep-motion-normal: 250ms;
+  --ep-motion-slow: 500ms;
+  --ep-motion-easing: cubic-bezier(0.22, 1, 0.36, 1);
+}

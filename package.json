@@ -1,0 +1,13 @@
+{
+  "name": "edupress-design-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Education-first design system powering the EduPress ecosystem.",
+  "packageManager": "pnpm@11",
+  "scripts": {
+    "dev": "pnpm --filter @edupress/docs dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "lint": "pnpm -r lint"
+  }
+}
